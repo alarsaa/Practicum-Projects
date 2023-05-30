@@ -1,4 +1,4 @@
-# Practicum-Projects
+# analyzing books to help startups to build apps for book lovers.
 
 The coronavirus took the entire world by surprise, changing everyone's daily routine. City dwellers no longer spent their free time outside, going to cafes and malls; more people were at home, reading books. That attracted the attention of startups that rushed to develop new apps for book lovers.
 
