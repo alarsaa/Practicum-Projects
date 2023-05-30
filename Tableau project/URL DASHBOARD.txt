@@ -1,0 +1,7 @@
+
+ 
+ this is my favorite project, I am in love with tableau :)
+
+this is the link to the dashboard on Tableau Public's server
+
+https://public.tableau.com/app/profile/alar.saad/viz/projectDataAnalyst/Dashboard1?publish=yes
