@@ -1,6 +1,6 @@
 # Practicum-Projects
 
-Hello and welcome to my data analyst project repository! Here, I showcase my work as a data analyst student in practicum bootcamp, highlighting projects that demonstrate my skills in extracting insights, conducting analysis, and deriving meaningful conclusions from data.
+Hello and welcome to my data analyst projects repository! Here, I showcase my work as a data analyst student in practicum bootcamp, highlighting projects that demonstrate my skills in extracting insights, conducting analysis, and deriving meaningful conclusions from data.
 
 Within this repository, you will find a collection of diverse projects where I have applied my data analysis expertise to solve real-world problems. Each project reflects my ability to gather, clean, and manipulate data, as well as my proficiency in statistical analysis, data visualization, and reporting.
 
